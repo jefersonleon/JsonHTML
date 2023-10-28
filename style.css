@@ -1,0 +1,24 @@
+body{
+    background-color: black;
+}
+.principal{
+    background-color: rgb(90, 175, 50);
+    margin: 20px;
+    padding: 10px;
+    display: flex;
+    border:1px solid black;
+}
+.principal>img{
+     width: 200px;
+     height: 200px;
+     padding: 5px;
+     border: 4px solid black;
+     border-radius: 120px;
+     background-color: black;
+}
+.noticia{
+    padding: 10px;
+}
+.noticia h2{
+    color: red;
+}

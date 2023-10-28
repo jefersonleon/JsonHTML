@@ -1,0 +1,34 @@
+{
+  "person": [
+    {
+      "data": "23/10/2023",
+      "titulo": "Início da disciplia de Projetos - 2023",
+      "noticia": "No dia 23/10 todos os alunos foram recpcionados no anfiteatro da escola e foi então apresentados a eles como seria o projeto deste semetre.",
+      "url": "http://www.medium.com"
+    },
+    {
+      "data": "24/10/2023",
+      "titulo": "Nova noticia",
+      "noticia": "No dia 24/10 todos os alunos foram recpcionados no anfiteatro da escola e foi então apresentados a eles como seria o projeto deste semetre.",
+      "url": "http://www.medium.com"
+    },
+    {
+      "data": "26/10/2023",
+      "titulo": "Outra noticia",
+      "noticia": "No dia 24/10 todos os alunos foram recpcionados no anfiteatro da escola e foi então apresentados a eles como seria o projeto deste semetre.",
+      "url": "http://www.medium.com"
+    },
+    {
+      "data": "26/10/2023",
+      "titulo": "Outra noticia",
+      "noticia": "No dia 24/10 todos os alunos foram recpcionados no anfiteatro da escola e foi então apresentados a eles como seria o projeto deste semetre.",
+      "url": "http://www.medium.com"
+    },
+    {
+      "data": "01/11/2023",
+      "titulo": "Theo descobriu um novo jeito",
+      "noticia": "No dia 01/11 dei outra dica show.",
+      "url": "http://www.medium.com"
+    }
+  ]
+}
